@@ -1,0 +1,4 @@
+runway-python
+Pillow==7.0.0
+dlib
+face_recognition
